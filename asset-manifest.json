@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chiara/static/css/main.89245106.chunk.css",
-    "main.js": "/chiara/static/js/main.7e916500.chunk.js",
-    "main.js.map": "/chiara/static/js/main.7e916500.chunk.js.map",
+    "main.css": "/chiara/static/css/main.b998b2e0.chunk.css",
+    "main.js": "/chiara/static/js/main.ca372f6d.chunk.js",
+    "main.js.map": "/chiara/static/js/main.ca372f6d.chunk.js.map",
     "runtime-main.js": "/chiara/static/js/runtime-main.e0cf6119.js",
     "runtime-main.js.map": "/chiara/static/js/runtime-main.e0cf6119.js.map",
-    "static/js/2.f129e925.chunk.js": "/chiara/static/js/2.f129e925.chunk.js",
-    "static/js/2.f129e925.chunk.js.map": "/chiara/static/js/2.f129e925.chunk.js.map",
+    "static/js/2.6cc10ef3.chunk.js": "/chiara/static/js/2.6cc10ef3.chunk.js",
+    "static/js/2.6cc10ef3.chunk.js.map": "/chiara/static/js/2.6cc10ef3.chunk.js.map",
     "static/js/3.137e3940.chunk.js": "/chiara/static/js/3.137e3940.chunk.js",
     "static/js/3.137e3940.chunk.js.map": "/chiara/static/js/3.137e3940.chunk.js.map",
     "index.html": "/chiara/index.html",
-    "static/css/main.89245106.chunk.css.map": "/chiara/static/css/main.89245106.chunk.css.map",
-    "static/js/2.f129e925.chunk.js.LICENSE.txt": "/chiara/static/js/2.f129e925.chunk.js.LICENSE.txt"
+    "static/css/main.b998b2e0.chunk.css.map": "/chiara/static/css/main.b998b2e0.chunk.css.map",
+    "static/js/2.6cc10ef3.chunk.js.LICENSE.txt": "/chiara/static/js/2.6cc10ef3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e0cf6119.js",
-    "static/js/2.f129e925.chunk.js",
-    "static/css/main.89245106.chunk.css",
-    "static/js/main.7e916500.chunk.js"
+    "static/js/2.6cc10ef3.chunk.js",
+    "static/css/main.b998b2e0.chunk.css",
+    "static/js/main.ca372f6d.chunk.js"
   ]
 }
